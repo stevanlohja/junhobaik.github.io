@@ -21,8 +21,7 @@ module.exports = {
   email: 'stevanio@protonmail.com',
   website: 'https://stevanlohja.github.io',           // ex.'https://junhobaik.github.io'
   linkedin: 'https://www.linkedin.com/in/stevanlohja/',                                     // ex.'https://www.linkedin.com/in/junho-baik-16073a19ab'
-  facebook: '',                                     // ex.'https://www.facebook.com/zuck' or 'https://www.facebook.com/profile.php?id=000000000000000'
-  // instagram: 'https://www.instagram.com/junhobaik', // ex.'https://www.instagram.com/junhobaik'
+  twitter: 'https://www.twitter.com/stevanlohja', // ex.'https://www.instagram.com/junhobaik'
   github: 'https://github.com/stevanlohja',           // ex.'https://github.com/junhobaik'
 
   /** Post */
