@@ -1,5 +1,5 @@
 ---
-title: Storing your crypto wallet like a pro.
+title: How to store your crypto like a pro.
 date: 2021-02-03
 category: crypto
 tags: 
