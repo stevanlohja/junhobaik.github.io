@@ -25,22 +25,22 @@ To not end up like these people:
 - [Introduction](#introduction)
   - [Goals](#goals)
   - [Table of Contents](#table-of-contents)
-  - [Basic principles of secret storage.](#basic-principles-of-secret-storage)
-    - [Offline vs online.](#offline-vs-online)
+- [Basic principles of secret storage.](#basic-principles-of-secret-storage)
+  - [Offline vs online.](#offline-vs-online)
   - [Have multiple plans.](#have-multiple-plans)
-    - [Do what works for you.](#do-what-works-for-you)
-  - [Examples](#examples)
-    - [Paper Wallet](#paper-wallet)
-    - [Hardware Wallet](#hardware-wallet)
-    - [Encrypted File](#encrypted-file)
-    - [Password Manager](#password-manager)
-    - [End-to-end Encrypted Cloud Storage](#end-to-end-encrypted-cloud-storage)
+  - [Do what works for you.](#do-what-works-for-you)
+- [Examples](#examples)
+  - [Paper Wallet](#paper-wallet)
+  - [Hardware Wallet](#hardware-wallet)
+  - [Encrypted File](#encrypted-file)
+  - [Password Manager](#password-manager)
+  - [End-to-end Encrypted Cloud Storage](#end-to-end-encrypted-cloud-storage)
 
 You might have a private key, seed phrase, or password to unlock or restore your wallet, but let's just call this your **secret** to make things simple.
 
-## Basic principles of secret storage.
+# Basic principles of secret storage.
 
-### Offline vs online.
+## Offline vs online.
 
 Your secret can be stored online or offline.
 
@@ -51,17 +51,17 @@ Due to cyber security threats, offline storage is almost always more secure than
 
 ## Have multiple plans.
 
-If plan A fails, what's your plan B? If both plan A and B fails, then what's your plan C? If plan A, B, and C fail, then what's plan D? Having multiple secrets safely stored ensures you have more than one option to recover your secret incase any other plan fails. Of course, the limits are up to you.
+If plan A fails, what's your plan B? If both plan A and B fails, then what's your plan C? If plan A, B, and C fail, then what's plan D? Storing your secret in multiple different ways ensures you have more than one option to recover your secret. Of course, the limits are up to you.
 
-### Do what works for you.
+## Do what works for you.
 
 It doesn't have to be rocket science. At the end of the day, store your secret safely in a method that best fits your cirumstances.
 
-## Examples
+# Examples
 
 Following the basic principles will be enough to store your wallet like a pro, but what's the fun without some examples. You're welcomed to use any of these examples, but remember - do what works for you.
 
-### Paper Wallet
+## Paper Wallet
 
 Write your secret on a piece of paper and store it in a safe place. Lockboxes, vaults, lockable file cabinets, and gun safes are traditional methods you might be familiar with and maybe that's your preference, but you might consider being more creative such as:
 - inscribing the secret on a piece of art
@@ -69,25 +69,25 @@ Write your secret on a piece of paper and store it in a safe place. Lockboxes, v
 - writing your secret on a specific page in a book
 - putting the paper wallet under a floor board
 
-### Hardware Wallet
+## Hardware Wallet
 
 There are many hardware wallet products on the market that allow you to store your secret and sign transactions using the device. These devices usually sign transactions offline, but keep in mind you are trusting  the hardware and software of these products. Here are some popular hardware wallets:
 - https://www.ledger.com/
 - https://trezor.io/
 - https://shapeshift.com/keepkey
 
-### Encrypted File
+## Encrypted File
 
 If you're going to store your secret on a computer or external disk, then encryption is recommended incase your computer was hacked or someone else finds your storage device. There are many free utilities to encrypt/decrypt and password protect files:
 - https://www.7-zip.org/
 - https://www.win-rar.com/
 - https://cryptomator.org/
 
-### Password Manager
+## Password Manager
 
 A password manager that allows you to store your secret can be a convenient method. [LastPass](https://www.lastpass.com/) and [Bitwarden](https://bitwarden.com/) are pretty good because the service provider store encrypted information that only you can unlock. Again, you're trusting their service.
 
-### End-to-end Encrypted Cloud Storage
+## End-to-end Encrypted Cloud Storage
 
 Do not use a cloud storage provider without encrypting any data before uploading or use a cloud storage service that provides end-to-end encryption by default.
 - https://cryptomator.org/ allows you to encrypt your traditional cloud storage provider such as Google Drive, OneDrive, but only use this if you know what you're doing.
@@ -95,4 +95,4 @@ Do not use a cloud storage provider without encrypting any data before uploading
 
 ---
 
-Disclaimer: Not financial advice or recommendation. Do your own due diliegence research and consult a licensed financial advisor.
+Disclaimer: Not financial advice or recommendation. Do your own due research and consult a licensed financial advisor.
